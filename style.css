@@ -1,0 +1,17 @@
+body {
+  background-color: #222222;
+  color: #ffffff;
+}
+
+.countdown {
+  margin-top: 20vh;
+  font-family: monospace;
+  font-size: 10vw;
+  text-shadow: 0 0 5px #000000;
+}
+
+.feliz {
+  margin-top: 20vh;
+  font-size: 5vw;
+  text-shadow: 0 0 5px #000000;
+}
